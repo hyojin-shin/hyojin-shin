@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=EADFF2&height=250&section=header&text=HyoJin%20SHIN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=slice&color=EADFF2&height=250&section=header&text=HyoJin%20SHIN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <h3><b>🛠 Tech Stack</b></h3>
 <p align="center">
