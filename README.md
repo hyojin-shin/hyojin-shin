@@ -7,7 +7,7 @@
  ***
  <h3><b>📚 Project<b></h3>
    
-   - 스마트 자율주행 공기청정기
+   - 스마트 자율주행 공기청정기<br>
    [seonghee-lee/Capstone](https://github.com/seonghee-lee/Capstone)
    - 스마트 자율주행 공기청정기 앱
    - 이동하는 공기청정기
