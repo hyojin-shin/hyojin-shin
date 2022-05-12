@@ -10,7 +10,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=black"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=black"/><br>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/> 
+<img src="https://img.shields.io/badge/-Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   
  ***
  <h2><b>📚 Project<b></h2>
